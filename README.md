@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=83B1C9&height=300&section=header&text=Hi,&nbsp;There!&fontSize=50&fontColor=ffffff)
-
-🩶 Jingyeong Seo <br>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=83B1C9&height=300&section=header&text= Jingyeong&nbsp;Seo&fontSize=50&fontColor=ffffff)
 
 ## ☁️ Education <br>
   - Hanyang University(2018.03 ~ 2023.02)
