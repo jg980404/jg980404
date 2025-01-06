@@ -2,7 +2,7 @@
 
 ## ☁️ Education <br>
   - Hanyang University(2018.03 ~ 2023.02)
-  - Boost course (2020.05 ~ 2020.08)
+  - Naver Boostcourse (2020.05 ~ 2020.08)
 
 ## ☁️ Activities <br>
   - LikeLion 9th(2021.03 ~ 2021.12)
@@ -13,6 +13,6 @@
   - LikeLion 9th Hackathon
   - LikeLion 10th Ideathon
   - LikeLion 10th Hackathon
-  - Metabus Fintech Hackaton
+  - Metaverse Fintech Hackaton
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=83B1C9&height=200&section=footer)
