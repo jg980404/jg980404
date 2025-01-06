@@ -2,11 +2,11 @@
 
 ## ☁️ Education <br>
   - Hanyang University(2018.03 ~ 2023.02)
-  - Boost course (2020.5 ~ 2020.8)
+  - Boost course (2020.05 ~ 2020.08)
 
 ## ☁️ Activities <br>
-  - LikeLion 9th(2021.3 ~ 2021.12)
-  - LikeLion 10th(2022.1 ~ 2022.12)
+  - LikeLion 9th(2021.03 ~ 2021.12)
+  - LikeLion 10th(2022.01 ~ 2022.12)
 
 ## ☁️ Hackathon <br>
   - LikeLion 9th Ideathon
