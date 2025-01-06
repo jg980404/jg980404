@@ -2,7 +2,7 @@
 
 ## ☁️ Education <br>
   - Hanyang University(2018.03 ~ 2023.02)
-  - Naver Boostcourse (2020.05 ~ 2020.08)
+  - Naver Boostcourse(2020.05 ~ 2020.08)
 
 ## ☁️ Activities <br>
   - LikeLion 9th(2021.03 ~ 2021.12)
